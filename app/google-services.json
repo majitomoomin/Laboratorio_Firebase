@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728491215456",
+    "project_id": "proyectopruebafire-704a9",
+    "storage_bucket": "proyectopruebafire-704a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728491215456:android:0ee994117a01bf83945105",
+        "android_client_info": {
+          "package_name": "com.example.firebase_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69jiBL8uS6v1wuwb2n8uw-Sbgh6HCroo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
