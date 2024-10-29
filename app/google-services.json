@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "206843944113",
+    "firebase_url": "https://laboratoriofirebase-f18a0-default-rtdb.firebaseio.com",
+    "project_id": "laboratoriofirebase-f18a0",
+    "storage_bucket": "laboratoriofirebase-f18a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206843944113:android:a2c91b623ae184beadd690",
+        "android_client_info": {
+          "package_name": "com.umgmi.firebaselab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR02RVrbcaofn7Ks2GpLpVXtNi54daSaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
